@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="ytplayer.min.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990169266389" remote="133262993270000000" Dst="2" />
-<file name="jquery.min.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264154533245385" remote="133264190050000000" Dst="2" />
-<file name="jquery-migrate-3.0.0.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990046540982" remote="133262990040000000" Dst="2" />
-<file name="jquery-ui.min.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990052316133" remote="133262990050000000" Dst="2" />
-<file name="popper.min.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990058486686" remote="133262990050000000" Dst="2" />
-<file name="bootstrap.min.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990064561478" remote="133262990060000000" Dst="2" />
-<file name="slicknav.min.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990071201202" remote="133262990070000000" Dst="2" />
-<file name="owl-carousel.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264154403373773" remote="133264190060000000" Dst="2" />
-<file name="magnific-popup.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264154402088199" remote="133264190060000000" Dst="2" />
-<file name="facnybox.min.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990165958449" remote="133264190060000000" Dst="2" />
-<file name="waypoints.min.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990089145275" remote="133264190070000000" Dst="2" />
-<file name="finalcountdown.min.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990098353735" remote="133262990090000000" Dst="2" />
-<file name="nicesellect.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264154402867467" remote="133264190070000000" Dst="2" />
-<file name="flex-slider.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264154474701453" remote="133264190080000000" Dst="2" />
-<file name="scrollup.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990117767316" remote="133262990110000000" Dst="2" />
-<file name="onepage-nav.min.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990126130928" remote="133262990120000000" Dst="2" />
-<file name="easing.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990131889554" remote="133262990130000000" Dst="2" />
-<file name="gmap.min.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264154490863927" remote="133264190090000000" Dst="2" />
-<file name="map-script.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262990175965950" remote="133264190090000000" Dst="2" />
-<file name="active.js" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133262738009883579" remote="133264190090000000" Dst="2" />
+<file name="active.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167424997" remote="133275221450000000" Dst="2" />
+<file name="bootstrap.min.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167456833" remote="133275221450000000" Dst="2" />
+<file name="easing.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167497632" remote="133275221450000000" Dst="2" />
+<file name="facnybox.min.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167533030" remote="133275221460000000" Dst="2" />
+<file name="finalcountdown.min.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167562998" remote="133275221460000000" Dst="2" />
+<file name="flex-slider.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167613006" remote="133275221460000000" Dst="2" />
+<file name="gmap.min.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167653010" remote="133275221470000000" Dst="2" />
+<file name="jquery-migrate-3.0.0.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167713003" remote="133275221470000000" Dst="2" />
+<file name="jquery-ui.min.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167783014" remote="133275221470000000" Dst="2" />
+<file name="jquery.min.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167853010" remote="133275221480000000" Dst="2" />
+<file name="magnific-popup.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167903005" remote="133275221480000000" Dst="2" />
+<file name="map-script.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943167963009" remote="133275221490000000" Dst="2" />
+<file name="nicesellect.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943168013017" remote="133275221490000000" Dst="2" />
+<file name="onepage-nav.min.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943168093028" remote="133275221490000000" Dst="2" />
+<file name="owl-carousel.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943168153027" remote="133275221500000000" Dst="2" />
+<file name="popper.min.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943168193005" remote="133275221500000000" Dst="2" />
+<file name="scrollup.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943168243032" remote="133275221500000000" Dst="2" />
+<file name="slicknav.min.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943168283037" remote="133275221500000000" Dst="2" />
+<file name="waypoints.min.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943168313009" remote="133275221510000000" Dst="2" />
+<file name="ytplayer.min.js" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943168353090" remote="133275221510000000" Dst="2" />
 </dwsync>

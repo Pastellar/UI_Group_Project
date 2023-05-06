@@ -9,7 +9,17 @@
 <file name="index.html" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264216084786872" remote="133264218740000000" Dst="2" />
 <file name="login.html" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264217121925677" remote="133264218750000000" Dst="2" />
 <file name="shrek.html" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264217236538135" remote="133264218770000000" Dst="2" />
-<file name="support.html" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264217361404794" remote="133264218780000000" Dst="2" />
 <file name="terms-of-service.html" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264217495670245" remote="133264218800000000" Dst="2" />
 <file name="wishlist.html" server="ec2-13-59-221-205.us-east-2.compute.amazonaws.com//var/www/html/" local="133264217641809987" remote="133264218810000000" Dst="2" />
+<file name="account.html" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133278141278039136" remote="133278141360000000" Dst="2" />
+<file name="cart.html" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133278140862520299" remote="133278140940000000" Dst="2" />
+<file name="checkout.html" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133278139148277724" remote="133278139230000000" Dst="2" />
+<file name="contact.html" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133278138848858926" remote="133278138910000000" Dst="2" />
+<file name="faq.html" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133278152138317052" remote="133278152230000000" Dst="2" />
+<file name="index.html" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133278138102445724" remote="133278138630000000" Dst="2" />
+<file name="login.html" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133278137821481227" remote="133278137870000000" Dst="2" />
+<file name="shrek.html" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133278137359424979" remote="133278137420000000" Dst="2" />
+<file name="style.css" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133272943171554015" remote="133275221550000000" Dst="2" />
+<file name="terms-of-service.html" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133278149988664571" remote="133278150060000000" Dst="2" />
+<file name="wishlist.html" server="ec2-3-21-92-29.us-east-2.compute.amazonaws.com//var/www/html/" local="133278135917825359" remote="133278136040000000" Dst="2" />
 </dwsync>
